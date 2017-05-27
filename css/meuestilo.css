@@ -1,0 +1,45 @@
+.btn-outline{
+
+	color:white;	
+}
+
+
+#tituloh1{
+
+		font-size: 80px;
+		font-family:"Times New Roman", Times, serif;
+		color:#fdcc52;
+}
+
+#tituloh2{
+
+	font-size: 25px;
+	color:white;
+}
+
+#imagem1{
+	height: 100%;
+}
+
+#imagem2{
+	height: 100%;
+}
+
+#botaobaixe:hover{
+	color: black;
+	background-color: #fdcc52;
+	border-color: black; 
+	font-size: 15px; 
+}
+
+#botaobaixe2:hover{
+	color: black;
+	background-color: #fdcc52;
+	border-color: black; 
+	font-size: 15px; 
+}
+
+
+.margemesq{
+	margin-left: 150px;
+}
